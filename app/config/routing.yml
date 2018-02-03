@@ -1,0 +1,3 @@
+app:
+    resource: '@TeletengaBundle/Infrastructure/Controller/'
+    type: annotation
