@@ -1,0 +1,21 @@
+TeletengaBundle\Domain\Entity\Model\Channel:
+    type: entity
+    table: channel
+    id:
+        id:
+            type: integer
+            generator: { strategy: AUTO }
+    fields:
+        number:
+            type: integer
+            length: 4
+        name:
+            type: string
+            length: 100
+        logo:
+            type: text
+        category_id:
+            type: integer
+            length: 2
+        description:
+            type: text

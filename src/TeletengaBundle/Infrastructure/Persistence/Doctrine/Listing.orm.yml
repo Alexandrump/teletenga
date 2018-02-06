@@ -1,0 +1,15 @@
+TeletengaBundle\Domain\Entity\Model\Listing:
+    type: entity
+    table: listing
+    id:
+        id:
+            type: integer
+            generator: { strategy: AUTO }
+    fields:
+        title:
+            type: string
+            length: 100
+        description:
+            type: text
+        owner:
+            type: integer
