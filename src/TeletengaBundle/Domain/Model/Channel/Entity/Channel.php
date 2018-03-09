@@ -8,7 +8,7 @@ namespace TeletengaBundle\Domain\Entity\Model;
 
 /**
  * Class Channel
- * @package TeletengaBundle\Domain\Entity\Model
+ * @package TeletengaBundle\Domain\Entity\Entity
  */
 class Channel
 {

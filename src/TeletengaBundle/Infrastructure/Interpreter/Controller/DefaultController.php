@@ -1,6 +1,6 @@
 <?php
 
-namespace TeletengaBundle\Infrastructure\Controller;
+namespace TeletengaBundle\Infrastructure\Ui\Controller;
 
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;

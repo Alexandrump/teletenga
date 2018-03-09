@@ -8,7 +8,7 @@ namespace TeletengaBundle\Domain\Entity\Model;
 
 /**
  * Class Listing
- * @package TeletengaBundle\Domain\Entity\Model
+ * @package TeletengaBundle\Domain\Entity\Entity
  */
 class Listing
 {
